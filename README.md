@@ -13,8 +13,7 @@ This is the Module 10 Challenge for the boot camp. The code was made from scratc
 2. Answer all the promts 
 3. Once all promts have been answered a SVG of your logo will be created in the 'output' folder
 
-[Untitled_ May 14, 2023 11_25 PM.webm](https://github.com/jef1197/module-10/assets/48005017/292c2269-cbe5-4630-99c3-0f6f08706cc1)
-
+[create_logo.webm](https://github.com/jef1197/Create-Logo/assets/48005017/0a9fa828-c8e8-4cd3-9139-b094902fb5bc)
 
 ## License
  
